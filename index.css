@@ -1,0 +1,27 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.nav {
+    background-color: #ddd;
+}
+
+.home,
+.diet,
+.habitat {
+    display: inline-block;
+    padding: 5px 15px;
+    background-color: #3C3C3C;
+    color: #fff;
+}
+.left {
+    float: left;
+    width: 30%;
+    background-color: blue;
+
+}
+.right {
+    float: right;
+    width: 70%;
+    background-color: aquamarine;
+}
